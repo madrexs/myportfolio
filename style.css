@@ -1,26 +1,47 @@
 body{
-
+background: grey;
 }
 .first{
 	background: #297746;
-	max-height: 700px;
-	float: left;
+	height: 400px;
 	width: 100%;
-
+}
+.main{
+	float: left;
 }
 .intro{
 	color: white;
-	margin: 120px 0px 100px 100px;
+	margin: 90px 0px 0px 140px;
+	float: left;
+	line-height: 20px;
 }
-h1.intro{
-	font-weight: bold;
-	font-style: sans-serif;
+.line-one{
+	font-weight: 200;
+	font-family: 'roboto',sans-serif;
+	word-spacing: 3px;
+	font-size: 25px;
 }
-h2.intro{
-	font-weight: normal;
-	font-style: monospace;
+.line-two{
+	font-weight: 900;
+	font-family: 'roboto',sans-serif;
+	font-size: 33px;
+	margin: 0px;
+	line-height: 22px;
 }
-h3.intro{
-	font-size: 10px;
-	font-style: serif;
+.line-three{
+	font-family: 'roboto',sans-serif;
+	font-weight: 500;
+	word-spacing: 4px;
+	font-size: 24px;
 }
+.km{
+	color: black;
+	background: #31ea95;
+	border-radius: 20px;
+	height: 40px;
+	width: 200px;
+	text-align: center;
+	box-shadow: 3px 3px 20px black;
+	position: relative;
+}
+
