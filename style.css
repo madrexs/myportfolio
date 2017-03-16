@@ -44,7 +44,7 @@ background: grey;
 	box-shadow: 3px 3px 20px black;
 }
 .km p{
-	line-height: 36px;
+	line-height: 38px;
 	font-family: 'roboto',sans-serif;
 	font-size: 14px;
 }
@@ -52,5 +52,20 @@ img{
 	float: right;
 	width: 400px;
 	height: 400px;
-	margin-top: px;
+	margin-right: 150px;
+}
+.second{
+	background: #EB4535;
+	height: 400px;
+	width: 100%;
+	margin: -16px 0px 0px 0px;
+}
+.myself{
+	margin: 130px 200px 100px 200px;
+}
+.head1{
+	color: black
+	font-size: 20px;
+	font-family: 'roboto',sans-serif;
+	text-align: center;
 }
