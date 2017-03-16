@@ -6,13 +6,12 @@ background: grey;
 	height: 400px;
 	width: 100%;
 }
-.main{
+.left{
 	float: left;
 }
 .intro{
 	color: white;
-	margin: 90px 0px 0px 140px;
-	float: left;
+	margin: 120px 0px 0px 140px;
 	line-height: 20px;
 }
 .line-one{
@@ -35,6 +34,7 @@ background: grey;
 	font-size: 24px;
 }
 .km{
+	margin: 10px 0px 0px 140px;
 	color: black;
 	background: #31ea95;
 	border-radius: 20px;
@@ -42,6 +42,15 @@ background: grey;
 	width: 200px;
 	text-align: center;
 	box-shadow: 3px 3px 20px black;
-	position: relative;
 }
-
+.km p{
+	line-height: 36px;
+	font-family: 'roboto',sans-serif;
+	font-size: 14px;
+}
+img{
+	float: right;
+	width: 400px;
+	height: 400px;
+	margin-top: px;
+}
