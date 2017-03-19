@@ -2,8 +2,8 @@ body{
 background: black;
 }
 .first{
-	background: #297746;
-	height: 400px;
+	background: #47066d;
+	height: 500px;
 	width: 100%;
 }
 .left{
@@ -11,7 +11,7 @@ background: black;
 }
 .intro{
 	color: white;
-	margin: 120px 0px 0px 140px;
+	margin: 170px 0px 0px 190px;
 	line-height: 20px;
 }
 .line-one{
@@ -25,16 +25,16 @@ background: black;
 	font-family: 'roboto',sans-serif;
 	font-size: 33px;
 	margin: 0px;
-	line-height: 22px;
+	line-height: 24px;
 }
 .line-three{
 	font-family: 'roboto',sans-serif;
 	font-weight: 500;
 	word-spacing: 4px;
-	font-size: 24px;
+	font-size: 26px;
 }
 .km{
-	margin: 10px 0px 0px 140px;
+	margin: 10px 0px 0px 190px;
 	color: black;
 	background: #31ea95;
 	border-radius: 20px;
@@ -43,41 +43,46 @@ background: black;
 	text-align: center;
 	box-shadow: 3px 3px 20px black;
 }
-.km p{
+.km a{
 	line-height: 38px;
 	font-family: 'roboto',sans-serif;
 	font-size: 14px;
+	text-decoration: none;
+	color: black;
 }
 .right img{
 	float: right;
-	width: 300px;
-	height: 400px;
-	margin-right: 180px;
+	width: 360px;
+	height: 450px;
+	margin-right: 220px;
+	margin-top: 50px;
 }
 .second{
-	background: #623b84;
+	background: #ffffff;
 	height: 400px;
 	width: 100%;
 }
 .myself{
 	float: left;
-	margin: 100px 290px 0px;
+	margin: 100px 350px 0px;
 	text-align: center;
 	height: 250px;
 	width: 700px;
 }
 .head1{
 	text-align: center;
-	color: #292929;
+	color: #000000;
 	font-family: 'roboto',sans-serif;
-	font-size: 22px;
+	font-size: 20px;
 	word-spacing: .06em;
+	font-weight: 700;
 }
 .aboutme{
-	color: #292929;
+	color: #000000;
 	font-family: 'roboto',sans-serif;
 	margin-top: 50px;
 	font-size: 14px;
 	letter-spacing: .05em;
-	word-spacing: .1em;
+	word-spacing: .09em;
+	font-weight: 500;
 }
