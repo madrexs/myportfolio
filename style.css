@@ -10,7 +10,9 @@ background: white;
 .first{
 	background: #47066d;
 	height: 500px;
-	width: 100%;
+	width: 1600px;
+	margin-left: -10px;
+	margin-top: -10px;
 }
 .intro{
 	color: white;
@@ -72,7 +74,7 @@ background: white;
 	text-align: center;
 	color: #000000;
 	font-family: 'roboto',sans-serif;
-	font-size: 21px;
+	font-size: 24px;
 	word-spacing: .06em;
 	font-weight: 700;
 }
@@ -80,7 +82,7 @@ background: white;
 	color: #000000;
 	font-family: 'roboto',sans-serif;
 	margin-top: 60px;
-	font-size: 15px;
+	font-size: 18px;
 	letter-spacing: .05em;
 	word-spacing: .09em;
 	font-weight: 500;
